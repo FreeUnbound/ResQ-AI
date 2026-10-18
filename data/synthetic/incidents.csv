@@ -1,0 +1,151 @@
+incident_id,timestamp,city,latitude,longitude,incident_type,description,severity,verification_status,incident_status,people_affected,source
+INC-0001,2026-10-08 07:15:00,Pune,18.558235,73.884972,Flood,Fictional report of waterlogging affecting a local area.,High,Unverified,Reported,75,SYNTHETIC_DEMO
+INC-0002,2026-10-07 07:00:00,Guwahati,26.154299,91.770763,Flood,Fictional report of waterlogging affecting a local area.,Low,Unverified,Resolved,28,SYNTHETIC_DEMO
+INC-0003,2026-10-01 05:45:00,Ahmedabad,22.99694,72.516277,Medical Emergency,Fictional request for medical assistance.,Medium,Pending,Reported,11,SYNTHETIC_DEMO
+INC-0004,2026-10-12 19:30:00,Guwahati,26.193641,91.772957,Flood,Fictional report of waterlogging affecting a local area.,Medium,Unverified,Reported,48,SYNTHETIC_DEMO
+INC-0005,2026-10-12 18:15:00,Pune,18.553131,73.784032,Medical Emergency,Fictional request for medical assistance.,Medium,Verified,In Progress,10,SYNTHETIC_DEMO
+INC-0006,2026-10-09 14:30:00,Chennai,13.028725,80.247543,Cyclone Damage,Fictional report of weather-related damage.,Low,Unverified,In Progress,9,SYNTHETIC_DEMO
+INC-0007,2026-10-08 05:45:00,Bhubaneswar,20.276813,85.902824,Landslide,Fictional report of a possible landslide.,Low,Unverified,Under Review,41,SYNTHETIC_DEMO
+INC-0008,2026-10-11 12:30:00,Mumbai,19.00659,72.943802,Fire,Fictional report of a fire requiring assessment.,High,Unverified,In Progress,27,SYNTHETIC_DEMO
+INC-0009,2026-10-15 04:30:00,Ahmedabad,22.964841,72.610598,Building Collapse,Fictional report of structural damage.,Critical,Unverified,In Progress,74,SYNTHETIC_DEMO
+INC-0010,2026-10-08 04:45:00,Guwahati,26.079046,91.663739,Medical Emergency,Fictional request for medical assistance.,Medium,Verified,Under Review,80,SYNTHETIC_DEMO
+INC-0011,2026-10-03 12:45:00,Delhi,28.629242,77.203888,Cyclone Damage,Fictional report of weather-related damage.,High,Pending,Reported,14,SYNTHETIC_DEMO
+INC-0012,2026-10-11 03:30:00,Hyderabad,17.374562,78.479296,Cyclone Damage,Fictional report of weather-related damage.,Medium,Unverified,In Progress,64,SYNTHETIC_DEMO
+INC-0013,2026-10-10 20:15:00,Delhi,28.558354,77.251002,Medical Emergency,Fictional request for medical assistance.,Critical,Unverified,Reported,76,SYNTHETIC_DEMO
+INC-0014,2026-10-12 09:15:00,Kolkata,22.501868,88.424382,Building Collapse,Fictional report of structural damage.,Low,Verified,Reported,62,SYNTHETIC_DEMO
+INC-0015,2026-10-05 04:45:00,Pune,18.591896,73.80312,Cyclone Damage,Fictional report of weather-related damage.,Medium,Unverified,Resolved,27,SYNTHETIC_DEMO
+INC-0016,2026-10-07 22:30:00,Hyderabad,17.368839,78.51417,Cyclone Damage,Fictional report of weather-related damage.,High,Pending,Resolved,66,SYNTHETIC_DEMO
+INC-0017,2026-10-03 10:00:00,Ahmedabad,23.036629,72.528218,Flood,Fictional report of waterlogging affecting a local area.,Low,Verified,Reported,9,SYNTHETIC_DEMO
+INC-0018,2026-10-02 10:00:00,Mumbai,19.078265,72.842256,Fire,Fictional report of a fire requiring assessment.,Low,Pending,Under Review,69,SYNTHETIC_DEMO
+INC-0019,2026-10-16 07:45:00,Delhi,28.6631,77.159466,Landslide,Fictional report of a possible landslide.,Critical,Verified,Resolved,45,SYNTHETIC_DEMO
+INC-0020,2026-10-02 21:00:00,Guwahati,26.074198,91.772714,Building Collapse,Fictional report of structural damage.,Medium,Verified,Under Review,24,SYNTHETIC_DEMO
+INC-0021,2026-10-14 05:30:00,Chennai,13.07672,80.330618,Medical Emergency,Fictional request for medical assistance.,Medium,Verified,Resolved,70,SYNTHETIC_DEMO
+INC-0022,2026-10-18 00:00:00,Pune,18.588619,73.912491,Flood,Fictional report of waterlogging affecting a local area.,High,Verified,Resolved,62,SYNTHETIC_DEMO
+INC-0023,2026-10-02 05:45:00,Ahmedabad,22.942845,72.553867,Fire,Fictional report of a fire requiring assessment.,High,Pending,In Progress,54,SYNTHETIC_DEMO
+INC-0024,2026-10-05 06:30:00,Hyderabad,17.339832,78.416057,Landslide,Fictional report of a possible landslide.,High,Unverified,Reported,40,SYNTHETIC_DEMO
+INC-0025,2026-10-17 16:15:00,Mumbai,19.005101,72.878953,Flood,Fictional report of waterlogging affecting a local area.,Medium,Verified,Reported,76,SYNTHETIC_DEMO
+INC-0026,2026-10-13 03:15:00,Pune,18.533027,73.783059,Landslide,Fictional report of a possible landslide.,High,Verified,Resolved,74,SYNTHETIC_DEMO
+INC-0027,2026-10-09 06:30:00,Bhubaneswar,20.25429,85.807826,Medical Emergency,Fictional request for medical assistance.,Medium,Unverified,In Progress,58,SYNTHETIC_DEMO
+INC-0028,2026-10-01 14:00:00,Kolkata,22.504322,88.318005,Cyclone Damage,Fictional report of weather-related damage.,Critical,Pending,Under Review,44,SYNTHETIC_DEMO
+INC-0029,2026-10-06 14:30:00,Pune,18.538268,73.934657,Fire,Fictional report of a fire requiring assessment.,Medium,Unverified,Reported,70,SYNTHETIC_DEMO
+INC-0030,2026-10-05 08:00:00,Bengaluru,13.033954,77.633387,Landslide,Fictional report of a possible landslide.,Low,Verified,In Progress,36,SYNTHETIC_DEMO
+INC-0031,2026-10-07 21:30:00,Bhubaneswar,20.296965,85.784679,Fire,Fictional report of a fire requiring assessment.,High,Verified,Reported,54,SYNTHETIC_DEMO
+INC-0032,2026-10-05 20:30:00,Bengaluru,12.917453,77.585294,Flood,Fictional report of waterlogging affecting a local area.,Low,Unverified,Resolved,71,SYNTHETIC_DEMO
+INC-0033,2026-10-05 17:00:00,Mumbai,19.129535,72.890902,Flood,Fictional report of waterlogging affecting a local area.,Low,Verified,Resolved,16,SYNTHETIC_DEMO
+INC-0034,2026-10-02 11:15:00,Mumbai,19.105131,72.904409,Road Accident,Fictional report of a road incident.,Medium,Pending,Resolved,79,SYNTHETIC_DEMO
+INC-0035,2026-10-06 13:00:00,Delhi,28.562598,77.276918,Fire,Fictional report of a fire requiring assessment.,High,Pending,Under Review,34,SYNTHETIC_DEMO
+INC-0036,2026-10-13 01:45:00,Delhi,28.569489,77.259654,Cyclone Damage,Fictional report of weather-related damage.,High,Pending,In Progress,39,SYNTHETIC_DEMO
+INC-0037,2026-10-07 12:30:00,Chennai,13.047276,80.201807,Fire,Fictional report of a fire requiring assessment.,Low,Pending,In Progress,65,SYNTHETIC_DEMO
+INC-0038,2026-10-18 10:00:00,Guwahati,26.082955,91.811464,Landslide,Fictional report of a possible landslide.,Critical,Verified,In Progress,4,SYNTHETIC_DEMO
+INC-0039,2026-10-11 13:00:00,Pune,18.502031,73.868954,Medical Emergency,Fictional request for medical assistance.,Medium,Pending,Reported,55,SYNTHETIC_DEMO
+INC-0040,2026-10-18 21:15:00,Mumbai,19.054275,72.808896,Medical Emergency,Fictional request for medical assistance.,Critical,Unverified,In Progress,79,SYNTHETIC_DEMO
+INC-0041,2026-10-10 16:30:00,Kolkata,22.599303,88.336089,Landslide,Fictional report of a possible landslide.,High,Unverified,In Progress,70,SYNTHETIC_DEMO
+INC-0042,2026-10-13 21:15:00,Delhi,28.632382,77.177152,Fire,Fictional report of a fire requiring assessment.,Medium,Unverified,Reported,38,SYNTHETIC_DEMO
+INC-0043,2026-10-11 14:45:00,Bengaluru,12.962346,77.548792,Fire,Fictional report of a fire requiring assessment.,Medium,Pending,Under Review,10,SYNTHETIC_DEMO
+INC-0044,2026-10-11 02:15:00,Bengaluru,12.999247,77.550543,Medical Emergency,Fictional request for medical assistance.,High,Verified,Under Review,3,SYNTHETIC_DEMO
+INC-0045,2026-10-03 14:45:00,Mumbai,19.137782,72.889807,Fire,Fictional report of a fire requiring assessment.,Critical,Unverified,Resolved,63,SYNTHETIC_DEMO
+INC-0046,2026-10-01 03:45:00,Guwahati,26.099515,91.784858,Fire,Fictional report of a fire requiring assessment.,Low,Unverified,Resolved,6,SYNTHETIC_DEMO
+INC-0047,2026-10-04 14:15:00,Hyderabad,17.433227,78.513512,Fire,Fictional report of a fire requiring assessment.,Critical,Unverified,In Progress,56,SYNTHETIC_DEMO
+INC-0048,2026-10-17 13:45:00,Bhubaneswar,20.359653,85.863485,Cyclone Damage,Fictional report of weather-related damage.,High,Pending,Resolved,33,SYNTHETIC_DEMO
+INC-0049,2026-10-17 15:15:00,Chennai,13.046636,80.203097,Cyclone Damage,Fictional report of weather-related damage.,High,Pending,Under Review,34,SYNTHETIC_DEMO
+INC-0050,2026-10-03 04:15:00,Kolkata,22.529602,88.394932,Road Accident,Fictional report of a road incident.,Critical,Unverified,Under Review,8,SYNTHETIC_DEMO
+INC-0051,2026-10-15 13:00:00,Guwahati,26.097594,91.723423,Building Collapse,Fictional report of structural damage.,Medium,Unverified,Reported,73,SYNTHETIC_DEMO
+INC-0052,2026-10-12 09:45:00,Guwahati,26.201052,91.808749,Building Collapse,Fictional report of structural damage.,Low,Pending,Under Review,62,SYNTHETIC_DEMO
+INC-0053,2026-10-01 12:30:00,Chennai,13.10972,80.318403,Road Accident,Fictional report of a road incident.,Medium,Unverified,Under Review,59,SYNTHETIC_DEMO
+INC-0054,2026-10-13 18:00:00,Delhi,28.547332,77.197578,Medical Emergency,Fictional request for medical assistance.,Medium,Pending,Under Review,6,SYNTHETIC_DEMO
+INC-0055,2026-10-15 10:30:00,Bengaluru,13.013397,77.57526,Building Collapse,Fictional report of structural damage.,Medium,Pending,In Progress,10,SYNTHETIC_DEMO
+INC-0056,2026-10-02 11:15:00,Ahmedabad,23.046523,72.616397,Flood,Fictional report of waterlogging affecting a local area.,High,Unverified,Reported,3,SYNTHETIC_DEMO
+INC-0057,2026-10-05 07:15:00,Chennai,13.07847,80.209002,Fire,Fictional report of a fire requiring assessment.,High,Verified,Resolved,32,SYNTHETIC_DEMO
+INC-0058,2026-10-04 05:30:00,Kolkata,22.509896,88.288009,Fire,Fictional report of a fire requiring assessment.,High,Pending,Resolved,50,SYNTHETIC_DEMO
+INC-0059,2026-10-08 03:30:00,Chennai,13.138747,80.286766,Flood,Fictional report of waterlogging affecting a local area.,Medium,Verified,Reported,44,SYNTHETIC_DEMO
+INC-0060,2026-10-03 16:30:00,Hyderabad,17.307024,78.473909,Building Collapse,Fictional report of structural damage.,High,Pending,Reported,55,SYNTHETIC_DEMO
+INC-0061,2026-10-15 22:15:00,Kolkata,22.562278,88.401307,Landslide,Fictional report of a possible landslide.,Critical,Unverified,In Progress,78,SYNTHETIC_DEMO
+INC-0062,2026-10-14 23:30:00,Hyderabad,17.356569,78.445979,Cyclone Damage,Fictional report of weather-related damage.,Medium,Verified,In Progress,57,SYNTHETIC_DEMO
+INC-0063,2026-10-13 10:00:00,Chennai,13.081789,80.242702,Cyclone Damage,Fictional report of weather-related damage.,Medium,Pending,Under Review,45,SYNTHETIC_DEMO
+INC-0064,2026-10-09 17:00:00,Bengaluru,12.97426,77.545169,Road Accident,Fictional report of a road incident.,Medium,Verified,Resolved,62,SYNTHETIC_DEMO
+INC-0065,2026-10-16 20:45:00,Hyderabad,17.376708,78.409459,Cyclone Damage,Fictional report of weather-related damage.,Low,Pending,Under Review,51,SYNTHETIC_DEMO
+INC-0066,2026-10-12 15:30:00,Chennai,13.070781,80.31005,Road Accident,Fictional report of a road incident.,High,Pending,In Progress,58,SYNTHETIC_DEMO
+INC-0067,2026-10-04 23:15:00,Bengaluru,12.942088,77.633461,Road Accident,Fictional report of a road incident.,Medium,Unverified,Under Review,24,SYNTHETIC_DEMO
+INC-0068,2026-10-17 19:30:00,Chennai,13.159582,80.323921,Landslide,Fictional report of a possible landslide.,Medium,Pending,Under Review,46,SYNTHETIC_DEMO
+INC-0069,2026-10-18 04:30:00,Delhi,28.541183,77.137724,Road Accident,Fictional report of a road incident.,Low,Pending,Under Review,62,SYNTHETIC_DEMO
+INC-0070,2026-10-10 15:45:00,Pune,18.510875,73.806198,Cyclone Damage,Fictional report of weather-related damage.,Low,Verified,In Progress,61,SYNTHETIC_DEMO
+INC-0071,2026-10-16 02:00:00,Pune,18.464676,73.906483,Cyclone Damage,Fictional report of weather-related damage.,Low,Pending,Reported,31,SYNTHETIC_DEMO
+INC-0072,2026-10-08 16:45:00,Pune,18.512482,73.847535,Medical Emergency,Fictional request for medical assistance.,High,Unverified,Resolved,39,SYNTHETIC_DEMO
+INC-0073,2026-10-04 06:15:00,Bhubaneswar,20.258443,85.75749,Medical Emergency,Fictional request for medical assistance.,Low,Verified,Under Review,70,SYNTHETIC_DEMO
+INC-0074,2026-10-15 22:45:00,Pune,18.487001,73.813736,Fire,Fictional report of a fire requiring assessment.,Low,Unverified,In Progress,58,SYNTHETIC_DEMO
+INC-0075,2026-10-09 20:15:00,Pune,18.508422,73.86383,Landslide,Fictional report of a possible landslide.,Low,Unverified,Under Review,34,SYNTHETIC_DEMO
+INC-0076,2026-10-10 19:30:00,Delhi,28.604165,77.203992,Flood,Fictional report of waterlogging affecting a local area.,Low,Pending,Resolved,34,SYNTHETIC_DEMO
+INC-0077,2026-10-03 19:00:00,Hyderabad,17.447308,78.524225,Medical Emergency,Fictional request for medical assistance.,Medium,Unverified,In Progress,3,SYNTHETIC_DEMO
+INC-0078,2026-10-01 21:30:00,Pune,18.5326,73.898797,Fire,Fictional report of a fire requiring assessment.,Critical,Verified,Resolved,66,SYNTHETIC_DEMO
+INC-0079,2026-10-14 20:45:00,Ahmedabad,23.097549,72.566602,Road Accident,Fictional report of a road incident.,Low,Pending,In Progress,41,SYNTHETIC_DEMO
+INC-0080,2026-10-14 22:45:00,Pune,18.486515,73.927931,Cyclone Damage,Fictional report of weather-related damage.,Low,Unverified,Reported,58,SYNTHETIC_DEMO
+INC-0081,2026-10-04 12:00:00,Pune,18.545626,73.863515,Road Accident,Fictional report of a road incident.,Medium,Pending,Reported,24,SYNTHETIC_DEMO
+INC-0082,2026-10-16 20:45:00,Hyderabad,17.426598,78.439269,Road Accident,Fictional report of a road incident.,High,Unverified,Under Review,36,SYNTHETIC_DEMO
+INC-0083,2026-10-01 20:15:00,Ahmedabad,23.056065,72.54112,Landslide,Fictional report of a possible landslide.,Medium,Verified,Resolved,11,SYNTHETIC_DEMO
+INC-0084,2026-10-15 03:15:00,Chennai,13.08244,80.305357,Cyclone Damage,Fictional report of weather-related damage.,Critical,Unverified,In Progress,53,SYNTHETIC_DEMO
+INC-0085,2026-10-18 04:45:00,Ahmedabad,22.972998,72.5873,Building Collapse,Fictional report of structural damage.,Low,Unverified,Under Review,8,SYNTHETIC_DEMO
+INC-0086,2026-10-14 10:30:00,Bengaluru,13.022888,77.559854,Cyclone Damage,Fictional report of weather-related damage.,High,Pending,Resolved,19,SYNTHETIC_DEMO
+INC-0087,2026-10-11 17:45:00,Ahmedabad,23.015355,72.542884,Medical Emergency,Fictional request for medical assistance.,Medium,Verified,Under Review,73,SYNTHETIC_DEMO
+INC-0088,2026-10-14 01:30:00,Guwahati,26.183653,91.769036,Fire,Fictional report of a fire requiring assessment.,High,Pending,Resolved,19,SYNTHETIC_DEMO
+INC-0089,2026-10-11 03:45:00,Ahmedabad,22.958454,72.637071,Flood,Fictional report of waterlogging affecting a local area.,Low,Verified,Under Review,52,SYNTHETIC_DEMO
+INC-0090,2026-10-09 10:45:00,Delhi,28.637874,77.265282,Flood,Fictional report of waterlogging affecting a local area.,Medium,Unverified,Resolved,40,SYNTHETIC_DEMO
+INC-0091,2026-10-03 07:30:00,Ahmedabad,23.102088,72.610883,Cyclone Damage,Fictional report of weather-related damage.,Medium,Pending,Reported,12,SYNTHETIC_DEMO
+INC-0092,2026-10-01 01:30:00,Ahmedabad,23.069883,72.538339,Fire,Fictional report of a fire requiring assessment.,High,Pending,Resolved,18,SYNTHETIC_DEMO
+INC-0093,2026-10-06 05:15:00,Chennai,13.015335,80.330034,Medical Emergency,Fictional request for medical assistance.,Medium,Unverified,Under Review,63,SYNTHETIC_DEMO
+INC-0094,2026-10-09 14:30:00,Bhubaneswar,20.322795,85.888325,Fire,Fictional report of a fire requiring assessment.,Low,Pending,In Progress,69,SYNTHETIC_DEMO
+INC-0095,2026-10-12 18:30:00,Delhi,28.63613,77.196889,Flood,Fictional report of waterlogging affecting a local area.,Medium,Pending,Resolved,38,SYNTHETIC_DEMO
+INC-0096,2026-10-04 07:45:00,Chennai,13.094208,80.28267,Building Collapse,Fictional report of structural damage.,High,Unverified,In Progress,2,SYNTHETIC_DEMO
+INC-0097,2026-10-02 19:45:00,Guwahati,26.197754,91.80067,Road Accident,Fictional report of a road incident.,Low,Verified,In Progress,28,SYNTHETIC_DEMO
+INC-0098,2026-10-05 20:00:00,Chennai,13.147245,80.294114,Medical Emergency,Fictional request for medical assistance.,Medium,Pending,Resolved,4,SYNTHETIC_DEMO
+INC-0099,2026-10-03 09:30:00,Bhubaneswar,20.335697,85.772602,Road Accident,Fictional report of a road incident.,High,Verified,In Progress,67,SYNTHETIC_DEMO
+INC-0100,2026-10-09 15:30:00,Hyderabad,17.424449,78.460894,Road Accident,Fictional report of a road incident.,High,Verified,Resolved,9,SYNTHETIC_DEMO
+INC-0101,2026-10-13 17:30:00,Delhi,28.548348,77.192132,Cyclone Damage,Fictional report of weather-related damage.,Critical,Pending,Reported,58,SYNTHETIC_DEMO
+INC-0102,2026-10-09 18:45:00,Kolkata,22.624187,88.434347,Landslide,Fictional report of a possible landslide.,High,Verified,Under Review,60,SYNTHETIC_DEMO
+INC-0103,2026-10-18 10:15:00,Mumbai,19.099624,72.899365,Medical Emergency,Fictional request for medical assistance.,Critical,Pending,In Progress,52,SYNTHETIC_DEMO
+INC-0104,2026-10-02 09:45:00,Pune,18.458979,73.814268,Fire,Fictional report of a fire requiring assessment.,Low,Unverified,Under Review,49,SYNTHETIC_DEMO
+INC-0105,2026-10-18 13:15:00,Ahmedabad,23.084166,72.596188,Road Accident,Fictional report of a road incident.,High,Pending,Resolved,35,SYNTHETIC_DEMO
+INC-0106,2026-10-15 14:15:00,Mumbai,19.132872,72.813597,Landslide,Fictional report of a possible landslide.,Medium,Unverified,In Progress,69,SYNTHETIC_DEMO
+INC-0107,2026-10-07 03:45:00,Kolkata,22.507268,88.317837,Flood,Fictional report of waterlogging affecting a local area.,Medium,Unverified,Reported,6,SYNTHETIC_DEMO
+INC-0108,2026-10-07 02:15:00,Kolkata,22.586421,88.413988,Fire,Fictional report of a fire requiring assessment.,Critical,Verified,In Progress,18,SYNTHETIC_DEMO
+INC-0109,2026-10-05 04:30:00,Bhubaneswar,20.343862,85.762088,Flood,Fictional report of waterlogging affecting a local area.,Medium,Verified,Under Review,1,SYNTHETIC_DEMO
+INC-0110,2026-10-11 00:15:00,Kolkata,22.535059,88.304181,Cyclone Damage,Fictional report of weather-related damage.,High,Pending,Reported,8,SYNTHETIC_DEMO
+INC-0111,2026-10-17 18:00:00,Ahmedabad,23.014821,72.526848,Building Collapse,Fictional report of structural damage.,High,Unverified,Reported,66,SYNTHETIC_DEMO
+INC-0112,2026-10-01 01:45:00,Bengaluru,13.027168,77.582804,Building Collapse,Fictional report of structural damage.,High,Verified,Resolved,56,SYNTHETIC_DEMO
+INC-0113,2026-10-05 02:15:00,Pune,18.484403,73.877992,Flood,Fictional report of waterlogging affecting a local area.,Medium,Unverified,In Progress,48,SYNTHETIC_DEMO
+INC-0114,2026-10-17 19:45:00,Bhubaneswar,20.231969,85.856785,Medical Emergency,Fictional request for medical assistance.,Medium,Unverified,Under Review,55,SYNTHETIC_DEMO
+INC-0115,2026-10-15 12:45:00,Ahmedabad,23.059238,72.541408,Fire,Fictional report of a fire requiring assessment.,Medium,Pending,In Progress,47,SYNTHETIC_DEMO
+INC-0116,2026-10-03 02:00:00,Delhi,28.548817,77.14445,Landslide,Fictional report of a possible landslide.,Critical,Unverified,In Progress,16,SYNTHETIC_DEMO
+INC-0117,2026-10-18 17:30:00,Hyderabad,17.412202,78.472429,Flood,Fictional report of waterlogging affecting a local area.,Medium,Unverified,Resolved,6,SYNTHETIC_DEMO
+INC-0118,2026-10-04 18:15:00,Bengaluru,12.916357,77.59175,Medical Emergency,Fictional request for medical assistance.,Medium,Verified,In Progress,71,SYNTHETIC_DEMO
+INC-0119,2026-10-08 13:00:00,Kolkata,22.590039,88.389153,Flood,Fictional report of waterlogging affecting a local area.,High,Unverified,In Progress,3,SYNTHETIC_DEMO
+INC-0120,2026-10-10 10:30:00,Delhi,28.534877,77.268178,Road Accident,Fictional report of a road incident.,High,Unverified,Resolved,8,SYNTHETIC_DEMO
+INC-0121,2026-10-01 02:15:00,Delhi,28.594091,77.201583,Landslide,Fictional report of a possible landslide.,High,Verified,In Progress,39,SYNTHETIC_DEMO
+INC-0122,2026-10-03 01:15:00,Kolkata,22.517786,88.382754,Cyclone Damage,Fictional report of weather-related damage.,Critical,Unverified,Reported,34,SYNTHETIC_DEMO
+INC-0123,2026-10-15 13:30:00,Ahmedabad,22.976991,72.573375,Landslide,Fictional report of a possible landslide.,Medium,Pending,Resolved,14,SYNTHETIC_DEMO
+INC-0124,2026-10-16 16:30:00,Bengaluru,12.898867,77.577842,Landslide,Fictional report of a possible landslide.,High,Unverified,Reported,0,SYNTHETIC_DEMO
+INC-0125,2026-10-05 08:30:00,Chennai,13.0552,80.191937,Road Accident,Fictional report of a road incident.,Critical,Unverified,Resolved,22,SYNTHETIC_DEMO
+INC-0126,2026-10-08 16:30:00,Delhi,28.545432,77.266882,Building Collapse,Fictional report of structural damage.,Medium,Verified,Resolved,2,SYNTHETIC_DEMO
+INC-0127,2026-10-14 18:45:00,Ahmedabad,23.05602,72.558231,Flood,Fictional report of waterlogging affecting a local area.,High,Verified,Resolved,2,SYNTHETIC_DEMO
+INC-0128,2026-10-15 22:30:00,Kolkata,22.506701,88.419017,Fire,Fictional report of a fire requiring assessment.,High,Verified,Resolved,75,SYNTHETIC_DEMO
+INC-0129,2026-10-10 23:30:00,Guwahati,26.099952,91.780859,Medical Emergency,Fictional request for medical assistance.,Low,Verified,Reported,67,SYNTHETIC_DEMO
+INC-0130,2026-10-12 11:15:00,Hyderabad,17.342803,78.430131,Fire,Fictional report of a fire requiring assessment.,Critical,Verified,Under Review,77,SYNTHETIC_DEMO
+INC-0131,2026-10-03 05:45:00,Delhi,28.608132,77.219198,Cyclone Damage,Fictional report of weather-related damage.,High,Unverified,Resolved,72,SYNTHETIC_DEMO
+INC-0132,2026-10-11 04:45:00,Bhubaneswar,20.227026,85.815253,Road Accident,Fictional report of a road incident.,High,Pending,In Progress,75,SYNTHETIC_DEMO
+INC-0133,2026-10-10 14:45:00,Mumbai,19.002017,72.856698,Road Accident,Fictional report of a road incident.,Medium,Pending,Reported,11,SYNTHETIC_DEMO
+INC-0134,2026-10-15 18:00:00,Bhubaneswar,20.288057,85.874071,Medical Emergency,Fictional request for medical assistance.,Medium,Unverified,Under Review,41,SYNTHETIC_DEMO
+INC-0135,2026-10-02 14:00:00,Bhubaneswar,20.345855,85.87848,Building Collapse,Fictional report of structural damage.,Medium,Unverified,Reported,64,SYNTHETIC_DEMO
+INC-0136,2026-10-15 14:15:00,Delhi,28.592124,77.27587,Flood,Fictional report of waterlogging affecting a local area.,Low,Pending,Resolved,43,SYNTHETIC_DEMO
+INC-0137,2026-10-11 02:30:00,Bhubaneswar,20.231221,85.853041,Flood,Fictional report of waterlogging affecting a local area.,High,Pending,In Progress,77,SYNTHETIC_DEMO
+INC-0138,2026-10-05 11:30:00,Delhi,28.688731,77.240757,Road Accident,Fictional report of a road incident.,Low,Pending,Under Review,76,SYNTHETIC_DEMO
+INC-0139,2026-10-11 04:00:00,Pune,18.543764,73.844445,Road Accident,Fictional report of a road incident.,Medium,Pending,Reported,46,SYNTHETIC_DEMO
+INC-0140,2026-10-11 15:15:00,Bengaluru,12.927847,77.53661,Fire,Fictional report of a fire requiring assessment.,Critical,Verified,In Progress,12,SYNTHETIC_DEMO
+INC-0141,2026-10-17 01:30:00,Hyderabad,17.445223,78.505585,Cyclone Damage,Fictional report of weather-related damage.,Medium,Unverified,Resolved,19,SYNTHETIC_DEMO
+INC-0142,2026-10-06 23:45:00,Delhi,28.540891,77.187288,Fire,Fictional report of a fire requiring assessment.,High,Unverified,Under Review,56,SYNTHETIC_DEMO
+INC-0143,2026-10-15 07:15:00,Bhubaneswar,20.265615,85.87388,Road Accident,Fictional report of a road incident.,High,Pending,Under Review,47,SYNTHETIC_DEMO
+INC-0144,2026-10-10 12:45:00,Bhubaneswar,20.370703,85.875203,Building Collapse,Fictional report of structural damage.,Medium,Unverified,Under Review,32,SYNTHETIC_DEMO
+INC-0145,2026-10-12 17:00:00,Mumbai,19.109824,72.880246,Landslide,Fictional report of a possible landslide.,Medium,Verified,In Progress,10,SYNTHETIC_DEMO
+INC-0146,2026-10-17 04:45:00,Delhi,28.548574,77.274681,Road Accident,Fictional report of a road incident.,Medium,Pending,In Progress,3,SYNTHETIC_DEMO
+INC-0147,2026-10-12 07:45:00,Guwahati,26.223624,91.716186,Flood,Fictional report of waterlogging affecting a local area.,Medium,Verified,In Progress,12,SYNTHETIC_DEMO
+INC-0148,2026-10-02 09:45:00,Kolkata,22.603972,88.306107,Cyclone Damage,Fictional report of weather-related damage.,Low,Unverified,Resolved,57,SYNTHETIC_DEMO
+INC-0149,2026-10-01 08:15:00,Bhubaneswar,20.349694,85.832309,Flood,Fictional report of waterlogging affecting a local area.,Critical,Unverified,Resolved,14,SYNTHETIC_DEMO
+INC-0150,2026-10-02 07:45:00,Bengaluru,12.993832,77.61425,Fire,Fictional report of a fire requiring assessment.,Medium,Verified,Reported,63,SYNTHETIC_DEMO

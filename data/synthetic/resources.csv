@@ -1,0 +1,41 @@
+resource_id,resource_type,city,latitude,longitude,capabilities,availability_status,capacity,source
+RES-001,Rescue Team,Mumbai,19.05278,72.890015,Search and rescue; Evacuation,Unavailable,15,SYNTHETIC_DEMO
+RES-002,Relief Truck,Pune,18.480397,73.849969,Food distribution; Water distribution,Available,16,SYNTHETIC_DEMO
+RES-003,Rescue Team,Delhi,28.558983,77.253404,Search and rescue; Evacuation,Unavailable,13,SYNTHETIC_DEMO
+RES-004,Boat,Chennai,13.096482,80.262893,Flood rescue; Water transport,Available,3,SYNTHETIC_DEMO
+RES-005,Ambulance,Bengaluru,12.920605,77.611102,Medical aid; Patient transport; First aid,Available,13,SYNTHETIC_DEMO
+RES-006,Ambulance,Kolkata,22.57417,88.393888,Medical aid; Patient transport; First aid,Available,7,SYNTHETIC_DEMO
+RES-007,Relief Truck,Guwahati,26.198835,91.693334,Food distribution; Water distribution,Available,16,SYNTHETIC_DEMO
+RES-008,Boat,Ahmedabad,22.966676,72.519468,Flood rescue; Water transport,Available,13,SYNTHETIC_DEMO
+RES-009,Ambulance,Hyderabad,17.368458,78.540636,Medical aid; Patient transport; First aid,Available,3,SYNTHETIC_DEMO
+RES-010,Boat,Bhubaneswar,20.308711,85.845987,Flood rescue; Water transport,Unavailable,13,SYNTHETIC_DEMO
+RES-011,Ambulance,Mumbai,19.060642,72.90927,Medical aid; Patient transport; First aid,Unavailable,20,SYNTHETIC_DEMO
+RES-012,Ambulance,Pune,18.476923,73.840734,Medical aid; Patient transport; First aid,Unavailable,12,SYNTHETIC_DEMO
+RES-013,Relief Truck,Delhi,28.631847,77.178953,Food distribution; Water distribution,Available,5,SYNTHETIC_DEMO
+RES-014,Fire Engine,Chennai,13.02581,80.233026,Fire suppression; Rescue,Unavailable,18,SYNTHETIC_DEMO
+RES-015,Fire Engine,Bengaluru,12.958038,77.602001,Fire suppression; Rescue,Busy,10,SYNTHETIC_DEMO
+RES-016,Fire Engine,Kolkata,22.605596,88.388385,Fire suppression; Rescue,Unavailable,8,SYNTHETIC_DEMO
+RES-017,Fire Engine,Guwahati,26.204064,91.710469,Fire suppression; Rescue,Available,17,SYNTHETIC_DEMO
+RES-018,Rescue Team,Ahmedabad,22.986521,72.527687,Search and rescue; Evacuation,Busy,4,SYNTHETIC_DEMO
+RES-019,Relief Truck,Hyderabad,17.379245,78.534541,Food distribution; Water distribution,Busy,16,SYNTHETIC_DEMO
+RES-020,Rescue Team,Bhubaneswar,20.355771,85.861762,Search and rescue; Evacuation,Busy,12,SYNTHETIC_DEMO
+RES-021,Boat,Mumbai,19.096141,72.902845,Flood rescue; Water transport,Unavailable,19,SYNTHETIC_DEMO
+RES-022,Fire Engine,Pune,18.525461,73.90366,Fire suppression; Rescue,Unavailable,7,SYNTHETIC_DEMO
+RES-023,Rescue Team,Delhi,28.639317,77.260279,Search and rescue; Evacuation,Unavailable,7,SYNTHETIC_DEMO
+RES-024,Boat,Chennai,13.117944,80.271751,Flood rescue; Water transport,Available,5,SYNTHETIC_DEMO
+RES-025,Fire Engine,Bengaluru,13.029816,77.629648,Fire suppression; Rescue,Busy,9,SYNTHETIC_DEMO
+RES-026,Ambulance,Kolkata,22.607445,88.307054,Medical aid; Patient transport; First aid,Unavailable,19,SYNTHETIC_DEMO
+RES-027,Relief Truck,Guwahati,26.153173,91.732289,Food distribution; Water distribution,Busy,19,SYNTHETIC_DEMO
+RES-028,Relief Truck,Ahmedabad,22.978073,72.61751,Food distribution; Water distribution,Available,4,SYNTHETIC_DEMO
+RES-029,Rescue Team,Hyderabad,17.362115,78.546651,Search and rescue; Evacuation,Busy,17,SYNTHETIC_DEMO
+RES-030,Fire Engine,Bhubaneswar,20.299183,85.8568,Fire suppression; Rescue,Available,20,SYNTHETIC_DEMO
+RES-031,Boat,Mumbai,19.02485,72.934386,Flood rescue; Water transport,Available,4,SYNTHETIC_DEMO
+RES-032,Ambulance,Pune,18.514397,73.878313,Medical aid; Patient transport; First aid,Unavailable,13,SYNTHETIC_DEMO
+RES-033,Rescue Team,Delhi,28.5693,77.248486,Search and rescue; Evacuation,Unavailable,19,SYNTHETIC_DEMO
+RES-034,Relief Truck,Chennai,13.099475,80.232536,Food distribution; Water distribution,Available,6,SYNTHETIC_DEMO
+RES-035,Boat,Bengaluru,12.963514,77.643885,Flood rescue; Water transport,Busy,3,SYNTHETIC_DEMO
+RES-036,Ambulance,Kolkata,22.612367,88.366072,Medical aid; Patient transport; First aid,Available,11,SYNTHETIC_DEMO
+RES-037,Rescue Team,Guwahati,26.104259,91.714919,Search and rescue; Evacuation,Available,9,SYNTHETIC_DEMO
+RES-038,Fire Engine,Ahmedabad,23.004023,72.624308,Fire suppression; Rescue,Available,11,SYNTHETIC_DEMO
+RES-039,Boat,Hyderabad,17.426512,78.456773,Flood rescue; Water transport,Busy,19,SYNTHETIC_DEMO
+RES-040,Relief Truck,Bhubaneswar,20.269034,85.839503,Food distribution; Water distribution,Busy,19,SYNTHETIC_DEMO
